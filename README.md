@@ -7,13 +7,13 @@ Create image mosaic with samll patch images using [Kuzushiji-MNIST](https://www.
 
 
 # Cat image is transformed as follows
-![cat](https://user-images.githubusercontent.com/49854618/148725028-9dbdc497-1225-433d-bf8b-088c120b2a49.jpg)   
-![cat_bw](https://user-images.githubusercontent.com/49854618/148725116-67bf5784-2862-4aba-a9e2-6698d61cd999.jpg)
+![cat](https://user-images.githubusercontent.com/49854618/148725028-9dbdc497-1225-433d-bf8b-088c120b2a49.jpg)![mosaic](https://user-images.githubusercontent.com/49854618/148725421-70baecba-35c0-4c7c-bfbb-41f7d08a60ca.PNG)
+![픽셀](https://user-images.githubusercontent.com/49854618/148725428-30e5f9e8-64c2-4efa-9d12-47990046aa19.PNG)
 
 
 
 # Dependencies
--Python
--Numpy
--OpenCV
--Matplolib
+- Python
+- Numpy
+- OpenCV
+- Matplolib
